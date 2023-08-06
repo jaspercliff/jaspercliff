@@ -1,3 +1,4 @@
+<div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
@@ -15,4 +16,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaspercliff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jaspercliff)](https://git.io/streak-stats)
-
+</div>

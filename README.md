@@ -12,8 +12,9 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 </div>
-# 方案 1：紧凑型布局（推荐）
-[![Jasper's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaspercliff&layout=compact&hide_border=true&langs_count=10&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-# 方案 2：如果您觉得上面的不显示，试试这个备用镜像接口
-![Jasper's Languages](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=jaspercliff&layout=compact&theme=vision-friendly-dark)
+### 🛠 Languages and Tools
+<p align="left"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,java,cpp,git,linux" />
+  </a>
+</p>

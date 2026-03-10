@@ -12,9 +12,9 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 </div>
-### 🛠 Languages and Tools
+
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,java,cpp,git,linux" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,python,lua,linux" />
   </a>
 </p>

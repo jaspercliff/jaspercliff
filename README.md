@@ -12,9 +12,8 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 </div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaspercliff&layout=compact" />
-</p>
+
+![Top Languages](https://img.shields.io/badge/Top%20Language-Java-blue)
 
 <p align="left"> 
   <a href="https://skillicons.dev">

@@ -12,7 +12,7 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 </div>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaspercliff&layout=compact)
 <p align="left"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,ts,python,lua,linux" />
